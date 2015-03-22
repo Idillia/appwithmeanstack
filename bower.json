@@ -1,0 +1,17 @@
+{
+  "name": "MultiVison",
+  "version": "0.0.0",
+  "authors": [
+    "idillia <mila.antonova@gmail.com>"
+  ],
+  "description": "\"Extereme Tech Training\"",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "toaster": "~0.4.10",
+    "angular": "~1.3.14",
+    "angular-resource": "~1.3.14",
+    "angular-route": "~1.3.14"
+  }
+}
